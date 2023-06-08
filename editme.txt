@@ -1,0 +1,4 @@
+We'll be playing the game of Hot Potato in here. Each person add a new line
+to this text file when it's your turn, and push the changes to the GitHub
+repository for this workshop. Continue until everyone has pushed at least
+one change to this file to complete the game.
