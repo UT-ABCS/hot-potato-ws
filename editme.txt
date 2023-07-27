@@ -5,9 +5,8 @@ one change to this file to complete the game.
 
 ROUND 1
 Kylan
+Perry
+Isaac
 
 ROUND 2
-Perry
-
-ROUND 3
-Isaac
+Kylan
